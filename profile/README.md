@@ -13,6 +13,9 @@
 
 ## 주요 기술
 
+### 서버
+|Spring Boot|JPA|
+
 ## 깃 컨벤션
 <div class="sc-fXEqDS jlUmJL atom-one"><blockquote>
 <blockquote>
