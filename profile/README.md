@@ -1,3 +1,8 @@
+# 프로젝트 소개
+
+# 팀원 소개
+
+# 주요 기술
 
 # 깃 컨벤션
 <div class="sc-fXEqDS jlUmJL atom-one"><blockquote>
