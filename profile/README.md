@@ -6,9 +6,9 @@
 |백승진|이유열|김지수|김지현|오태훈|윤상원|한정수|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |서버|서버|서버|AI|AI|기획|기획|
-|[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[hsju0202](https://github.com/hsju0202)|
-|<img src="https://avatars.githubusercontent.com/u/53468197?v=4" width="200" height="135"/>|<img src="https://avatars.githubusercontent.com/u/84696773?v=4" width="200" height="135"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4" width="200" height="135"/>|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
-|아유 프린스송?!|예아~~|구뭉팀 화이팅!|중도하차 == 10억 기부|
+|[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[hsju0202](https://github.com/hsju0202)|||[JS-HAN214](https://github.com/JS-HAN214)|
+|<img src="https://avatars.githubusercontent.com/u/53468197?v=4"/>|<img src="https://avatars.githubusercontent.com/u/84696773?v=4"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4"/>|<img src="https://avatars.githubusercontent.com/u/139134983?v=4"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4"/>|<img src="https://avatars.githubusercontent.com/u/139134983?v=4"/>|
+|아유 프린스송?!|예아~~|구뭉팀 화이팅!|중도하차 == 10억 기부|엑소보다 잘생김|BTS보다 잘생김|원빈보다 잘생김|
 
 
 ## 주요 기술
