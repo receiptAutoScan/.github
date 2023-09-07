@@ -7,7 +7,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |서버|서버|서버|AI|AI|기획|기획|
 |[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[hsju0202](https://github.com/hsju0202)|
-|![](https://avatars.githubusercontent.com/u/53468197?v=4){: width="100%" height="100%"}|![](https://avatars.githubusercontent.com/u/84696773?v=4){: width="100%" height="100%"}|![](https://avatars.githubusercontent.com/u/122511847?v=4){: width="100%" height="100%"}|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
+|![](https://avatars.githubusercontent.com/u/53468197?v=4){: width="100px" height="100px"}|![](https://avatars.githubusercontent.com/u/84696773?v=4){: width="100%" height="100%"}|![](https://avatars.githubusercontent.com/u/122511847?v=4){: width="100%" height="100%"}|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
 |코오오오딩|많이 배우겠습니다|구뭉팀 화이팅!|중도하차 == 10억 기부|
 
 
