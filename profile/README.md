@@ -8,7 +8,7 @@
 |서버|서버|서버|AI|AI|기획|기획|
 |[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[hsju0202](https://github.com/hsju0202)|
 |<img src="https://avatars.githubusercontent.com/u/53468197?v=4" width="200" height="135"/>|<img src="https://avatars.githubusercontent.com/u/84696773?v=4" width="200" height="135"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4" width="200" height="135"/>|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
-|I am Ironcat|많이 배우겠습니다|구뭉팀 화이팅!|중도하차 == 10억 기부|
+|I am Ironcat|E~yeah~ah|구뭉팀 화이팅!|중도하차 == 10억 기부|
 
 
 ## 주요 기술
