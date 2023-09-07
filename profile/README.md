@@ -25,6 +25,12 @@
 |<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="60px" height="30px"/>|
 |:---:|
 
+### AI
+|<img src="https://www.python.org/static/img/python-logo@2x.png" width="100%" height="100%"/>|
+|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fopwfr%2FbtqRAj86uNM%2FMFoeKGk6AK6L8MRwbAfouk%2Fimg.png" width="100%" height="100%"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tesseract_OCR_logo_%28Google%29.png/375px-Tesseract_OCR_logo_%28Google%29.png" width="100%" height="100%"/>|
+|<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/261808793_1082281822528512_588598751091579214_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=GCfXkpOypRQAX9Z3dZL&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAdNvXb9TA4IWYOz--6BTYUMXDMVxh0BDBk8ae539NtPw&oe=6513C3ED" width="100%" height="100%"/>|
+|:---:|
 
 ## 깃 컨벤션
 <div class="sc-fXEqDS jlUmJL atom-one"><blockquote>
