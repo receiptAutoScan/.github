@@ -1,10 +1,19 @@
-# 프로젝트 소개
+# 영수증
 
-# 팀원 소개
+## 프로젝트 소개
 
-# 주요 기술
+## 팀원 소개
+|백승진|이유열|김지수|김지현|오태훈|윤상원|한정수|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|서버|서버|서버|AI|AI|기획|기획|
+|[labyu](https://github.com/labyu)|[skehdxhd96](https://github.com/skehdxhd96)|[zooneon](https://github.com/zooneon)|[hsju0202](https://github.com/hsju0202)|
+|![](https://avatars.githubusercontent.com/u/35277854?v=4)|![](https://avatars.githubusercontent.com/u/55571682?v=4)|![](https://avatars.githubusercontent.com/u/59433441?v=4)|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
+|코오오오딩|많이 배우겠습니다|구뭉팀 화이팅!|중도하차 == 10억 기부|
 
-# 깃 컨벤션
+
+## 주요 기술
+
+## 깃 컨벤션
 <div class="sc-fXEqDS jlUmJL atom-one"><blockquote>
 <blockquote>
 <h3 id="1-commit-메시지-구조">1. Commit 메시지 구조</h3>
