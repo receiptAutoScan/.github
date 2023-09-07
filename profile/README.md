@@ -6,7 +6,7 @@
 |백승진|이유열|김지수|김지현|오태훈|윤상원|한정수|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |서버|서버|서버|AI|AI|기획|기획|
-|[labyu](https://github.com/labyu)|[skehdxhd96](https://github.com/skehdxhd96)|[zooneon](https://github.com/zooneon)|[hsju0202](https://github.com/hsju0202)|
+|[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[hsju0202](https://github.com/hsju0202)|
 |![](https://avatars.githubusercontent.com/u/35277854?v=4)|![](https://avatars.githubusercontent.com/u/55571682?v=4)|![](https://avatars.githubusercontent.com/u/59433441?v=4)|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
 |코오오오딩|많이 배우겠습니다|구뭉팀 화이팅!|중도하차 == 10억 기부|
 
