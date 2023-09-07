@@ -14,8 +14,17 @@
 ## 주요 기술
 
 ### 서버
-|Spring Boot|JPA|
-|:---:|:---:|
+|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1Kv0P%2FbtrpJQek23V%2FJLIruScfBPvLA7Kw0jCdkk%2Fimg.png" width="80px" height="40px"/>|<img src="https://velog.velcdn.com/images/sa1341/post/561a7a4b-0952-45bf-99ec-242ae58b40ab/jpa.png" width="50px" height="40px" />|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99F571395BBB259226" width="90px" height="40px" />|
+|:---:|:---:|:---:|
+
+### 클라이언트
+|<img src="https://tech.osci.kr/wp-content/uploads/2022/05/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2022-05-03-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE-3.57.02.png" width="70px" height="40px" />|
+|:---:|
+
+### DataBase
+|<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="60px" height="40px"/>|
+|:---:|
+
 
 ## 깃 컨벤션
 <div class="sc-fXEqDS jlUmJL atom-one"><blockquote>
