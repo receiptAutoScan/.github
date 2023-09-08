@@ -8,7 +8,7 @@
 |서버|서버|서버|AI|AI|기획|기획|
 |[ej20001000](https://github.com/ej20001000)|[youyeul1301](https://github.com/youyeul301)|[jisoo9603](https://github.com/jisoo9603)|[jeehyunkim0510](https://github.com/jeehyunkim0510)|[OHTaEH](https://github.com/OHTaEH)|[snagwon](https://github.com/snagwon)|[JS-HAN214](https://github.com/JS-HAN214)|
 |<img src="https://avatars.githubusercontent.com/u/53468197?v=4"/>|<img src="https://avatars.githubusercontent.com/u/84696773?v=4"/>|<img src="https://avatars.githubusercontent.com/u/122511847?v=4"/>|<img src="https://avatars.githubusercontent.com/u/56626776?v=4"/>|<img src="https://avatars.githubusercontent.com/u/105119559?v=4"/>|<img src="https://avatars.githubusercontent.com/u/141210119?v=4"/>|<img src="https://avatars.githubusercontent.com/u/139134983?v=4"/>|
-|I am Ironcat|Very 잘생김|차은우보다 잘생김|김우빈보다 잘생김|그냥 완전 잘생김|BTS보다 잘생김|원빈보다 잘생김|
+|I am Ironcat|아무것도 몰라요|차은우보다 잘생김|김우빈보다 잘생김|그냥 완전 잘생김|BTS보다 잘생김|원빈보다 잘생김|
 
 
 ## 주요 기술
